@@ -1,0 +1,246 @@
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\csc.exe
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\csc.exe.config
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\csc.rsp
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\csi.exe
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\csi.rsp
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.AppContext.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.Collections.Immutable.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.IO.FileSystem.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\System.Reflection.Metadata.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\vbc.exe
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\vbc.exe.config
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\vbc.rsp
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\VBCSCompiler.exe
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\roslyn\VBCSCompiler.exe.config
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Lab10.dll.config
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Lab10.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Lab10.pdb
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\ClearScript.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.Core.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.Msie.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.V8.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JSPool.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Microsoft.Web.Infrastructure.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\MsieJavaScriptEngine.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Newtonsoft.Json.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Core.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Web.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Web.Mvc4.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Helpers.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Mvc.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Razor.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.Deployment.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.Razor.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\VroomJs.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\WebActivatorEx.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.Core.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.Msie.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JavaScriptEngineSwitcher.V8.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\JSPool.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\MsieJavaScriptEngine.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\Newtonsoft.Json.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Core.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Web.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\React.Web.Mvc4.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\VroomJs.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Razor.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.Deployment.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Webpages.Razor.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Helpers.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\System.Web.Mvc.xml
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\obj\Debug\Lab10.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.dll
+E:\新建文件夹\Visual Studio 2017\Projects\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.pdb
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.exe
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.exe.config
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.rsp
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csi.exe
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csi.rsp
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.AppContext.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.exe
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.exe.config
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.rsp
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.dll.config
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.pdb
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\ClearScript.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JSPool.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\MsieJavaScriptEngine.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Newtonsoft.Json.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Core.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.Mvc4.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Helpers.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Mvc.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Razor.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Razor.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\VroomJs.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\WebActivatorEx.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\JSPool.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\MsieJavaScriptEngine.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\Newtonsoft.Json.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Core.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.Mvc4.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\VroomJs.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Razor.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Razor.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Helpers.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Mvc.xml
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.dll
+C:\Users\alexa\Desktop\WP2 DEMO\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.pdb
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.exe
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.exe.config
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csc.rsp
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csi.exe
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\csi.rsp
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.AppContext.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Collections.Immutable.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.IO.FileSystem.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\System.Reflection.Metadata.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.exe
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.exe.config
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\vbc.rsp
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\VBCSCompiler.exe
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\roslyn\VBCSCompiler.exe.config
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.dll.config
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Lab10.pdb
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\ClearScript.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Core.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Msie.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.V8.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JSPool.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.Web.Infrastructure.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\MsieJavaScriptEngine.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Newtonsoft.Json.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Core.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.Mvc4.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Helpers.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Mvc.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Razor.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Deployment.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Razor.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\VroomJs.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\WebActivatorEx.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Core.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.Msie.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JavaScriptEngineSwitcher.V8.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\JSPool.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\MsieJavaScriptEngine.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\Newtonsoft.Json.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Core.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\React.Web.Mvc4.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\VroomJs.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Razor.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Deployment.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Webpages.Razor.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Helpers.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\System.Web.Mvc.xml
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.dll
+E:\Algonquin College\2017W\Lab10-P2\Lab10-P2\Lab10-P2\Lab10\obj\Debug\Lab10.pdb
